@@ -1,0 +1,14 @@
+admin
+login
+api
+robots.txt
+sitemap.xml
+uploads
+assets
+static
+backup
+backups
+config
+docs
+api/v1
+.well-known
