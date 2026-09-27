@@ -117,7 +117,7 @@ def main() -> None:
         f"[dim]v{__version__}[/dim]"
     )
     console.print(f"Target: [cyan]{target}[/cyan]")
-    console.print(f"Wordlist: [cyan]{args.wordlist}[/cyan]")
+    console.print(f"Wordlist: [cyan]{args.wordlist}[/cyan]")\n    console.print(f"Status filter: [cyan]{args.status}[/cyan]")
     console.print()
 
     results = []
